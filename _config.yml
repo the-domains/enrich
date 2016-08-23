@@ -1,0 +1,14 @@
+layout_spectrum: 0.7373111876659095
+typography_spectrum: 0.7093328626360744
+color:
+  brandStrength: 0.24367094109766185
+  lightness: 0.522020478034392
+  saturation: 0.05938356043770909
+  rhythmicContrast: 0.6198441677261144
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Enrich
